@@ -1,0 +1,20 @@
+{
+  "name": "techblog",
+  "version": "1.0.0",
+  "description": "A Tech Blog",
+  "main": "index.js",
+  "scripts": {
+    "test": "Echo",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gracianx/techblog.git"
+  },
+  "author": "Gracianx",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gracianx/techblog/issues"
+  },
+  "homepage": "https://github.com/gracianx/techblog#readme"
+}
